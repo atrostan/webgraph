@@ -1,0 +1,6 @@
+webgraph-*.jar
+build/*
+jars/runtime/*
+jars/test/*
+jars/compile/*
+/dist/*
